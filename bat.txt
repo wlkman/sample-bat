@@ -1,0 +1,5 @@
+获取端口号对应的进程：netstat -ano|findstr [port]
+
+获取进程名称：tasklist|findstr [pid]
+
+kill掉进程：taskkill /f /pid [pid]
