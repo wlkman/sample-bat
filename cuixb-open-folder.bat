@@ -1,5 +1,6 @@
 @ECHO OFF
 TITLE find folder
+start "" "C:\Users\XinBinCui\Desktop\Pending Task.xlsx"
 :start
 echo ###########################folder list##############################
 echo 1--m2
